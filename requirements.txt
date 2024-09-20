@@ -1,0 +1,10 @@
+beautifulsoup4==4.10.0
+langchain-community==0.0.1
+sentence-transformers==2.2.2
+pinecone-client==2.2.2
+pinecone-text==0.0.1
+pypdf2==3.0.0
+requests==2.26.0
+unstructured==0.0.1
+huggingface-hub==0.15.1
+nltk==3.8
